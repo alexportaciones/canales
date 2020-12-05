@@ -1,0 +1,55 @@
+#EXTM3U 
+
+#EXTINF:-1 tvg-id="116088" tvg-name="Cine Club" tvg-logo="https://lh3.googleusercontent.com/-s0IKUMAsHJo/X7qWRlxQFoI/AAAAAAAA7kQ/P07ldtCVVOEh-KVOaz8uhVr20VjdDHs0wCK8BGAsYHg/s0/2020-11-22.png", Cine Club
+https://stmv1.zcastbr.com/cineclubtv/cineclubtv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="114052" tvg-name="TVperuanisima" tvg-logo="https://lh3.googleusercontent.com/-421vow8pfJs/X5waL4rYooI/AAAAAAAA634/92Pn5Ue8nJQjtxdr9zKc2yQrmo9dsBuXACK8BGAsYHg/s0/2020-10-30.png", TVperuanisima
+http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="113078" tvg-name="Mix 24-7" tvg-logo="https://lh3.googleusercontent.com/-mOgOT3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png", Mix 24-7
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/1.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="109958" tvg-name="Canal IPE" tvg-logo="https://lh3.googleusercontent.com/-oIEzY0G7pYY/XbI3QjoY6OI/AAAAAAAArqw/caCNpRl6FRoMHn1l0F-Tc9HmhrZRtxgggCK8BGAsYHg/s0/2019-10-24.png", Canal IPE
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="109768" tvg-name="Exitosa" tvg-logo="https://lh3.googleusercontent.com/-5afo0xCN3is/XzxvmQIimeI/AAAAAAAA4qU/hXCSeRtNtD0ss4ihCIJ-92trFm3BYJhwQCK8BGAsYHg/s0/2020-08-18.jpg", Exitosa
+https://cu.onliv3.com/livevd1/user2.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="109767" tvg-name="Karibeña TV" tvg-logo="https://lh3.googleusercontent.com/-3WtV-Ee6f4g/XzxuRNf0V2I/AAAAAAAA4p4/0FT0EgwqeLEXbJe0vEdCcTO5mhzkmq5qwCK8BGAsYHg/s0/2020-08-18.jpg", Karibeña TV
+https://cu.onliv3.com/livevd/user1.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="109754" tvg-name="+Cumbia Canal 98" tvg-logo="https://lh3.googleusercontent.com/-ZJanuKXyOcE/XzxsUNGtJ_I/AAAAAAAA4pc/5GU3Dq6vXiEbaMuBLpf_vt_xGy7TSysMQCK8BGAsYHg/s0/2020-08-18.png", +Cumbia Canal 98
+https://live.siete.us:1991/mascumbiatvonline/mascumbiatvonline/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="109753" tvg-name="Best Cable Music" tvg-logo="https://lh3.googleusercontent.com/-5_iLG_7dCR4/XzxsvrIsFsI/AAAAAAAA4po/GH4DSrK2H5YVOskucpzMxMZeU417wwVvQCK8BGAsYHg/s0/2020-08-18.jpg", Best Cable Music
+https://live.siete.us:1991/bestcablemusic/bestcablemusic/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="109752" tvg-name="Best Cable Sports" tvg-logo="https://lh3.googleusercontent.com/-LNqyThL23sA/Xzxu6qOCPqI/AAAAAAAA4qE/6jC3uKCToWUvQFFFL0pl-e9Qomh2LdxawCK8BGAsYHg/s0/2020-08-18.png", Best Cable Sports
+https://live.siete.us:1991/bestcablesports/bestcablesports/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="106797" tvg-name="Retro Plus TV" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png", Retro Plus TV
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="102609" tvg-name="Rewind TV" tvg-logo="https://lh3.googleusercontent.com/-DNyXu-b4s7U/Xw5ewsB00fI/AAAAAAAA21g/BxwNdcI3djYxvx4JKkpiGWruGj2DwFNkgCK8BGAsYHg/s0/2020-07-14.png", Rewind TV
+https://tls.cdnz.cl:443/rewindtv/rewindtv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="80322" tvg-name="Top Latino TV" tvg-logo="https://lh3.googleusercontent.com/-POiHU6Qb1j4/XoKFS8L9g_I/AAAAAAAAxVw/rJgcu5B-5bQKiZhuql1Uw33jtDLCy6mEACK8BGAsYHg/s0/2020-03-30.png", Top Latino TV
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="80324" tvg-name="TV Peru Noticias" tvg-logo="https://lh3.googleusercontent.com/-KD-fsTkMuGk/XoKOALALblI/AAAAAAAAxWc/5phOwY1GlmwfZ4jq32uVem2PZRDigWSCACK8BGAsYHg/s0/2020-03-30.png", TV Peru Noticias
+https://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,REAL MADRID TV HD www.achoAPPS.com
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
+
+#EXTINF:-1,Wow TV www.achoAPPS.com
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
+
+#EXTINF:-1,HDFashion www.achoAPPS.com
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?_=1518069241
+
+#EXTINF:-1,CGTN www.achoAPPS.com
+http://livees.cgtn.com/1000e/prog_index.m3u8
+
+#EXTINF:-1,Deutsche Welle Latino | SD www.achoAPPS.com
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
