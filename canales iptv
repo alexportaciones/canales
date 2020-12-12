@@ -6,10 +6,10 @@ https://stmv1.zcastbr.com/cineclubtv/cineclubtv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="113078" tvg-name="Mix 24-7" tvg-logo="https://lh3.googleusercontent.com/-mOgOT3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png" group-title="MUSICA", Mix 24-7
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/1.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/13max.png" group-title="CINE", 13 MAX (Argentina)
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/13max.png" group-title="VARIADO", 13 MAX (Argentina)
 http://coninfo.net:1935/13maxhd/live_720p/.m3u8
 
-#EXTINF:-1 tvg-id="109958" tvg-name="Canal IPE" tvg-logo="https://lh3.googleusercontent.com/-oIEzY0G7pYY/XbI3QjoY6OI/AAAAAAAArqw/caCNpRl6FRoMHn1l0F-Tc9HmhrZRtxgggCK8BGAsYHg/s0/2019-10-24.png" group-title="CULTURAL", Canal IPE
+#EXTINF:-1 tvg-id="109958" tvg-name="Canal IPE" tvg-logo="https://lh3.googleusercontent.com/-oIEzY0G7pYY/XbI3QjoY6OI/AAAAAAAArqw/caCNpRl6FRoMHn1l0F-Tc9HmhrZRtxgggCK8BGAsYHg/s0/2019-10-24.png" group-title="VARIADO", Canal IPE
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="109768" tvg-name="Exitosa" tvg-logo="https://lh3.googleusercontent.com/-5afo0xCN3is/XzxvmQIimeI/AAAAAAAA4qU/hXCSeRtNtD0ss4ihCIJ-92trFm3BYJhwQCK8BGAsYHg/s0/2020-08-18.jpg" group-title="NOTICIAS", Exitosa
@@ -45,10 +45,10 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oWya6SB.png" group-title="NOTICIAS", Central TV | SD
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 
-#EXTINF:-1,HDFashion group-title="CULTURAL"
+#EXTINF:-1,HDFashion group-title="VARIADO"
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?_=1518069241
 
-#EXTINF:-1,CGTN group-title="CULTURAL"
+#EXTINF:-1,CGTN group-title="VARIADO"
 http://livees.cgtn.com/1000e/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.unored.tv/wp-content/uploads/2015/08/Extrema-TV-logo.jpg" group-title="CINE", Extrema TV
@@ -87,16 +87,16 @@ http://coninfo.net:1935/13maxhd/live_720p/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/telemax.png" group-title="CINE", Telemax
 http://s5.mexside.net:1935/telemax/telemax/.m3u8
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Telemax.png/1200px-Telemax.png" group-title="CINE",TLX
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Telemax.png/1200px-Telemax.png" group-title="VARIADO",TLX
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8?
 
-#EXTINF:-1 tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-24-occidente.png" group-title="CINE", Wow TV
+#EXTINF:-1 tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-24-occidente.png" group-title="VARIADO", Wow TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 
-#EXTINF:-1,Entretenimiento:Wow TV group-title="CINE"
+#EXTINF:-1,Entretenimiento:Wow TV group-title="VARIADO"
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 
-#EXTINF:-1 tvg-logo="" group-title="CULTURAL", CGTN ES
+#EXTINF:-1 tvg-logo="" group-title="VARIADO", CGTN ES
 http://livees.cgtn.com/1000e/prog_index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/multivision.png" group-title="CINE", Multivision Argentina
