@@ -9,7 +9,7 @@ http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/1.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/13max.png" group-title="VARIADO", 13 MAX (Argentina)
 http://coninfo.net:1935/13maxhd/live_720p/.m3u8
 
-#EXTINF:-1 tvg-id="109958" tvg-name="Canal IPE" tvg-logo="https://lh3.googleusercontent.com/-oIEzY0G7pYY/XbI3QjoY6OI/AAAAAAAArqw/caCNpRl6FRoMHn1l0F-Tc9HmhrZRtxgggCK8BGAsYHg/s0/2019-10-24.png" group-title="VARIADO", Canal IPE
+#EXTINF:-1 tvg-id="109958" tvg-name="Canal IPE" tvg-logo="https://lh3.googleusercontent.com/-oIEzY0G7pYY/XbI3QjoY6OI/AAAAAAAArqw/caCNpRl6FRoMHn1l0F-Tc9HmhrZRtxgggCK8BGAsYHg/s0/2019-10-24.png" group-title="INFANTIL", Canal IPE
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="109768" tvg-name="Exitosa" tvg-logo="https://lh3.googleusercontent.com/-5afo0xCN3is/XzxvmQIimeI/AAAAAAAA4qU/hXCSeRtNtD0ss4ihCIJ-92trFm3BYJhwQCK8BGAsYHg/s0/2020-08-18.jpg" group-title="NOTICIAS", Exitosa
@@ -36,17 +36,14 @@ http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 #EXTINF:-1 tvg-id="80322" tvg-name="Top Latino TV" tvg-logo="https://lh3.googleusercontent.com/-POiHU6Qb1j4/XoKFS8L9g_I/AAAAAAAAxVw/rJgcu5B-5bQKiZhuql1Uw33jtDLCy6mEACK8BGAsYHg/s0/2020-03-30.png" group-title="MUSICA", Top Latino TV
 https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="80324" tvg-name="TV Peru Noticias" tvg-logo="https://lh3.googleusercontent.com/-KD-fsTkMuGk/XoKOALALblI/AAAAAAAAxWc/5phOwY1GlmwfZ4jq32uVem2PZRDigWSCACK8BGAsYHg/s0/2020-03-30.png" group-title="NOTICIAS", TV Peru Noticias
-https://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8?PlaylistM3UCL
+// #EXTINF:-1 tvg-id="80324" tvg-name="TV Peru Noticias" tvg-logo="https://lh3.googleusercontent.com/-KD-fsTkMuGk/XoKOALALblI/AAAAAAAAxWc/5phOwY1GlmwfZ4jq32uVem2PZRDigWSCACK8BGAsYHg/s0/2020-03-30.png" group-title="NOTICIAS", TV Peru Noticias
+// https://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,Wow TV group-title="CINE"
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oWya6SB.png" group-title="NOTICIAS", Central TV | SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oWya6SB.png" group-title="VARIADO", Central TV | SD
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
-
-#EXTINF:-1,HDFashion group-title="VARIADO"
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?_=1518069241
 
 #EXTINF:-1,CGTN group-title="VARIADO"
 http://livees.cgtn.com/1000e/prog_index.m3u8
@@ -54,52 +51,28 @@ http://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-logo="http://www.unored.tv/wp-content/uploads/2015/08/Extrema-TV-logo.jpg" group-title="CINE", Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1,CINE Y SERIES:Extrema TV group-title="CINE"
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://latelete.tv/img/realmadrid.png" group-title="DEPORTES",Real Madrid TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+// #EXTINF:-1 tvg-logo="http://latelete.tv/img/realmadrid.png" group-title="DEPORTES",Real Madrid TV
+// http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m504ZL8.png" group-title="CINE", Canal 26 | HD
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 
-#EXTINF:-1,ARGENTINA:Canal 26 group-title="CINE"
-http://200.115.193.177/live/26hd-720/.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m504ZL8.png" group-title="CINE", Canal 26 | HD
-http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-nHFCYDL5_2o/AAAAAAAAAAI/AAAAAAAAAAA/5nCxkCQReb8/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="CINE",Telesur (Costa Rica)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-nHFCYDL5_2o/AAAAAAAAAAI/AAAAAAAAAAA/5nCxkCQReb8/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="VARIADO",Telesur (Costa Rica)
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/K52brqr.png" group-title="MUSICA",Melody Channel (EU)
 http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
 
-#EXTINF:-1,ETB Sat group-title="CINE"
+#EXTINF:-1,ETB Sat group-title="NOTICIAS"
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 
-#EXTINF:-1,ETB Sat group-title="CINE"
-http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0564_av-p.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/13max.png" group-title="CINE", 13 MAX (Argentina)
-http://coninfo.net:1935/13maxhd/live_720p/.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/telemax.png" group-title="CINE", Telemax
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/telemax.png" group-title="NOTICIAS", Telemax
 http://s5.mexside.net:1935/telemax/telemax/.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Telemax.png/1200px-Telemax.png" group-title="VARIADO",TLX
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8?
 
-#EXTINF:-1 tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-24-occidente.png" group-title="VARIADO", Wow TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
-
-#EXTINF:-1,Entretenimiento:Wow TV group-title="VARIADO"
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
-
-#EXTINF:-1 tvg-logo="" group-title="VARIADO", CGTN ES
-http://livees.cgtn.com/1000e/prog_index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/multivision.png" group-title="CINE", Multivision Argentina
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/multivision.png" group-title="VARIADO", Multivision Argentina
 http://panel.dattalive.com:1935/8250/8250/.m3u8
 
 #EXTINF:-1 group-title="DEPORTES",FLOW SPORTS
@@ -111,7 +84,7 @@ http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
 #EXTINF:-1 group-title="VARIADO",TRAVEL HD
 http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="DEPORTES",REAL MADRID NUEVOTV HD
+#EXTINF:-1 group-title="DEPORTES",REAL MADRID TV HD
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
 
 #EXTINF:-1 group-title="DEPORTES",AD Sports 1 HD
@@ -126,31 +99,25 @@ http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w19153785
 #EXTINF:-1 group-title="MUSICA",CHAU Tv
 http://video.chaula.tv/hls/live/high/playlist_high.m3u8
 
-#EXTINF:-1 group-title="VARIADO",Telemundo
-https://i.imgur.com/sxNI7nx.png",Telemundo
-
 #EXTINF:-1 group-title="VARIADO",TeleSafor
 http://video.telesafor.com/hls/video_low.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",The Weather Network
 http://weather-lh.akamaihd.net:80/i/twc_1@92006/master.m3u8
 
-#EXTINF:-1 group-title="VARIADO",TICAVISION
+#EXTINF:-1 group-title="CINE",TICAVISION
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 
-#EXTINF:-1 group-title="VARIADO",Microvision
+#EXTINF:-1 group-title="CINE",Microvision
 http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
 
-#EXTINF:-1 group-title="MUSICA",MTV
+#EXTINF:-1 group-title="VARIADO",MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 
 #EXTINF:-1 group-title="VARIADO",UESTV
 http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
 
-#EXTINF:-1 group-title="VARIADO",Canal 4 Posadas
-http://184.154.28.210:1935/canal4/canal4/playlist.m3u8
-
-#EXTINF:-1 group-title="VARIADO",U TV
+#EXTINF:-1 group-title="MUSICA",U TV
 http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",France24
@@ -158,9 +125,6 @@ http://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
 
 #EXTINF:-1 group-title="VARIADO",UCSG
 http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
-
-#EXTINF:-1 group-title="NOTICIAS",CBS News
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",TV Noticias 7.3
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0002&mode=12
@@ -171,26 +135,8 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0003&mode=12
 #EXTINF:-1 group-title="VARIADO",Cannali TV
 http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fDJpIpn.png" group-title="DEPORTES",ESPN (Opt-2)
-http://npse.brots.world/espn2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PQbUGRO.png" group-title="DEPORTES",ESPN U
-https://gma2.blab.email/espnu.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ghgq1PM.png" group-title="NOTICIAS",San Francisco: NBC 11 News
-http://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/index_1286_av-p.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canal24horastv.com/layout_default/img/logo.png" group-title="NOTICIAS",Canal 24 Horas
-http://stream02.canal24horastv.com:1935/live/Canal24Horas/livestream.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mrGvcPV.png" group-title="SPAIN",EiTB 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mrGvcPV.png" group-title="NOTICIAS",EiTB 2
 http://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hmYDqGV.png" group-title="VARIADO",Huesca TV
-https://streaming2.radiohuesca.com/hls-live/livepkgr/_definst_/huescatv/huescatv.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.colectivosvip.com/public/colectivos/390/logo.png" group-title="VARIADO",Mola TV
-http://ventdelnord.tv:8080/mola/directe.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I9QX555.png" group-title="VARIADO",mtmad 24h
 https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8?fluxustv.m3u8
@@ -198,29 +144,14 @@ https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8?fluxustv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GwMeEbD.png" group-title="INFANTIL",PequeRadio TV
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kJcwaOU.png" group-title="VARIADO",DW (DE)
-https://www.youtube.com/watch?v=6B8n7o699uM
-
-#EXTINF:-1 tvg-logo="https://www.rt.com/static/block/touch-icon/apple-touch-icon-144x144-precomposed.png" group-title="VARIADO",RT (RU) (Opt-1)
-https://www.youtube.com/watch?v=mOcEqTR1Hn4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XcVxkBA.png" group-title="VARIADO",Canal 22
-http://api.new.livestream.com/accounts/16458468/events/4574813/live.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M4pdL75.png" group-title="VARIADO",Chacra TV
 http://s8.stweb.tv:1935/chacra/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/764094244722184192/ZzC-pGTJ_400x400.jpg" group-title="VARIADO",Litus TV Santa Fe
 http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Bh8rmNJ.png" group-title="VARIADO",Tierramia TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bh8rmNJ.png" group-title="MUSICA",Tierramia TV
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MyhPvmc.png" group-title="VARIADO",Alegria TV
-https://593b04c4c5670.streamlock.net/8192/8192/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pe9zky9.jpg" group-title="VARIADO",TecTV (Opt-1)
-http://190.107.176.55:1935/live/tec-tv/chunklist_w1055014753.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="VARIADO",Teleamazonas
 http://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
