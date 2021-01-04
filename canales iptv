@@ -234,18 +234,38 @@ http://ivi.bupt.edu.cn/hls/cctv13.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kEcxOLc.png" group-title="ASIA",Max Financial Media CHINA
 http://xinl.live.maxtv.cn/live/zb/playlist.m3u8
 
+#EXTINF:-1 group-title="NUEVO", TELESUR 
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 
+#EXTINF:-1 group-title="NUEVO", Canal 9 Multivision 
+http://panel.dattalive.com:1935/8250/8250/chunklist_w689217833.m3u8
 
+#EXTINF:-1 group-title="NUEVO" , Tv Cosmos 
+http://wowzaserver.net:1935/tvcosmos15/tvcosmos15/playlist.m3u8
 
+#EXTINF:-1 group-title="NUEVO", LOGOS 
+http://streamer1.streamhost.org:1935/salive/GMIalfam/playlist.m3u8
 
+#EXTINF:-1 group-title="NUEVO", TELEMADRID 
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
 
+#EXTINF:-1 group-title="NUEVO", CANAL M 
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 
+#EXTINF:-1 group-title="NUEVO", WOW EL SALVADOR 
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
+#EXTINF:-1 group-title="NUEVO", TV DEL ESTE DOMINICANA 
+http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8?fluxustv.m3u8
 
+#EXTINF:-1 group-title="NUEVO", COLOSAL TV COSTA RICA 
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 
+#EXTINF:-1 group-title="NUEVO", TELESUR COSTA RICA 
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 
-
-
+#EXTINF:-1 group-title="NUEVO", MULTIMEDIOS COSTA RICA 
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
 
 
 
