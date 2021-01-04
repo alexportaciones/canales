@@ -159,8 +159,75 @@ http://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BeF08XL.png" group-title="VARIADO",UAO Play
 https://live-edge-rbx-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/live-1500/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4NiVS6e.png" group-title="VARIADO",Panamericana TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4NiVS6e.png" group-title="NOTICIAS",Panamericana TV
 https://cdnhd.iblups.com/hls/ptv2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fuwPytF.png" group-title="ASIA",Fuji TV (JAPAN)
+http://203.162.235.41:16904
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/967Ud6N.png" group-title="ASIA",MBS (JAPAN)
+http://203.162.235.41:16910
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jSJpXG0.png" group-title="ASIA",NHK General (JAPAN)
+http://203.162.235.41:16903
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YP30Eir.png" group-title="ASIA",NHK World Premium (JAPAN)
+http://203.162.235.41:16901
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pbs.twimg.com/profile_images/474926025768312833/TUAQCppN.png" group-title="ASIA",NTV News24 JAPAN
+http://www.news24.jp/livestream/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xz3JwGT.png" group-title="ASIA",TB Opt-1 JAPAN
+http://main1.mov3.co/hls/main.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/Channels_IPTV_01.png" group-title="ASIA",EBS Plus1 KOREA
+http://ebsonair.ebs.co.kr:1935/plus1tablet500k/tablet500k/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/kr-ytn-science.jpg" group-title="ASIA",YTN Science KOREA
+http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oIRxwu9.png" group-title="ASIA",Hong Kong Open TV 
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H36G8wZ.png" group-title="ASIA",RTHK TV 31 HONG KONG
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N8YdX6W.png" group-title="ASIA",Aniu TV CHINA
+http://cclive.aniu.tv/live/anzb.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R6F6NEb.png" group-title="ASIA",BesTV 4K CHINA
+http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R6F6NEb.png" group-title="ASIA",BestTV UHD CHINA
+http://117.148.187.37/PLTV/88888888/224/3221226685/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7flJQne.png" group-title="ASIA",China CTV 1
+http://stream.chinactv.com/ctv1/sd/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/CCTV-5体育.png" group-title="ASIA",CCTV-5 CHINA
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv5
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/CCTV-9纪录.png" group-title="ASIA",CCTV-9 CHINA
+http://ivi.bupt.edu.cn/hls/cctv9.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ksFTF0t.png" group-title="ASIA",CCTV-13 CHINA
+http://ivi.bupt.edu.cn/hls/cctv13.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kEcxOLc.png" group-title="ASIA",Max Financial Media CHINA
+http://xinl.live.maxtv.cn/live/zb/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
