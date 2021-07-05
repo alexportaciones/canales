@@ -267,6 +267,94 @@ http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 #EXTINF:-1 group-title="NUEVO", MULTIMEDIOS COSTA RICA 
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
 
+#EXTINF:-1 group-title="NUEVO",AFV Family En Espanol
+https://linear-46.frequency.stream/dist/roku/46/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="NUEVO",AMC Presents
+https://amc-amcpresents-1.vizio.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/20551-91383.png" group-title="NUEVO",Azteca 7 (XHTIT-TDT)
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhtit-tdt.m3u8
+
+#EXTINF:-1 group-title="NUEVO",Best Cable Sports Perú (720p) 
+https://live.siete.us/bestcablesports/bestcablesports/index.m3u8
+
+#EXTINF:-1 group-title="NUEVO",Canal N
+http://186.101.216.211:8000/play/a05i
+
+#EXTINF:-1 group-title="NUEVO",Canal RCN
+http://186.101.216.211:8000/play/a09k
+
+#EXTINF:-1 group-title="NUEVO",DW Latino America
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
+
+#EXTINF:-1 group-title="NUEVO",Entrepeneur
+https://a.jsrdn.com/broadcast/7582ed85f7/+0000/c.m3u8
+
+#EXTINF:-1 group-title="NUEVO",ESPN
+http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDg6NTI6MDUgQU0maGFzaF92YWx1ZT02dkk5bitvVHJveEQ4eHFjNE5qYWdnPT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTINF:-1 group-title="NUEVO",GEN TV HD
+https://videohd.live:19360/8010/8010.m3u8?_=1
+
+#EXTINF:-1 group-title="NUEVO",Panamericana TV (HD) [Not 24/7]
+https://cdnhd.iblups.com/hls/ptv2.m3u8
+
+#EXTINF:-1 group-title="NUEVO",TV Peru
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0003&mode=12
+
+#EXTINF:-1 group-title="NUEVO",VALLEVISION CANAL 10 HD
+http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8
+
+#EXTINF:-1 group-title="NUEVO",VALLEVISION CANAL 10.1 HD
+https://streaming.telecablecentral.com.do/Vallevision/ValleHD/chunklist_w1749406618.m3u8
+
+#EXTINF:-1 group-title="NUEVO",ATV (Lima)
+http://186.101.216.211:8000/play/a073
+
+#EXTINF:-1 group-title="NUEVO",BHTV HD
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+
+#EXTINF:-1 group-title="NUEVO",Cajamarca TV
+https://live.siete.us/cajamarcatv/cajamarcatv/index.m3u8
+
+#EXTINF:-1 group-title="NUEVO",CR Television (Moyobamba) 
+https://media2.cdnlayer.biz:8081/8020/index.m3u8
+
+#EXTINF:-1 group-title="NUEVO",Cultura 24 (480P)
+http://vs8.live.opencaster.com/cultura24/_definst_/mp4:cultura24_480/chunklist_w1999901240.m3u8
+
+#EXTINF:-1 group-title="NUEVO",Cultura24.tv (720p)
+https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
+
+#EXTINF:-1 group-title="NUEVO",Exitosa TV
+https://cu.onliv3.com/livevd1/user2.m3u8
+
+#EXTINF:-1 group-title="NUEVO",Inkavisión
+https://7.innovatestream.pe:19360/inkavision/inkavision.m3u8
+
+#EXTINF:-1 group-title="NUEVO",Latina (Peru)
+https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8
+
+#EXTINF:-1 group-title="NUEVO",Millenium 49 TV (Pucallpa) 
+https://stmv.panel.mivideo.pro/mileniuntv/mileniuntv/playlist.m3u8
+
+#EXTINF:-1 group-title="NUEVO",Nuestra TV (Lima) 
+https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.twitch.tv/nuestratvlima
+
+#EXTINF:-1 group-title="NUEVO",Omega TV (Yurimaguas) 
+https://7.innovatestream.pe:19360/omega/omega.m3u8
+
+#EXTINF:-1 group-title="NUEVO",Primavera 15 Radiotelevisión (Moquegua)
+https://rtmp02.portalexpress.es/primaveratv/primaveratv/playlist.m3u8
+
+#EXTINF:-1 group-title="NUEVO",Quattro TV
+https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.twitch.tv/quatrotvgo
+
+#EXTINF:-1 group-title="NUEVO",TelSatel Cine TV (Arequipa) 
+https://stmv.panel.mivideo.pro/cinetv/cinetv/playlist.m3u8
+
+
 
 
 
