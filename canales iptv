@@ -354,6 +354,10 @@ https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.
 #EXTINF:-1 group-title="NUEVO",TelSatel Cine TV (Arequipa) 
 https://stmv.panel.mivideo.pro/cinetv/cinetv/playlist.m3u8
 
+#EXTINF:-1 group-title="NUEVO",Action Movies (720p)
+https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
+
+
 
 
 
