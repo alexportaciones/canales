@@ -357,6 +357,64 @@ https://stmv.panel.mivideo.pro/cinetv/cinetv/playlist.m3u8
 #EXTINF:-1 group-title="NUEVO",Action Movies (720p)
 https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 group-title="",5RTv (720p)
+https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
+
+#EXTINF:-1 group-title="",Atres Series Internacional
+http://186.101.216.211:8000/play/a0dv
+
+#EXTINF:-1 group-title="General",BHTV (720p)
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+
+#EXTINF:-1 group-title="",Bolivia TV 7.2 (720p)
+https://video1.getstreamhosting.com:1936/8224/8224/chunklist_w1684483949.m3u8
+
+#EXTINF:-1 group-title="",Canal Amé 47 (720p)
+http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8
+
+#EXTINF:-1 group-title="Local",Central TV (Chosica) [Not 24/7]
+https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies",Claro Cinema (576p)
+http://209.91.213.10:8099/play/a00v
+
+#EXTINF:-1 group-title="",Comedy Movies (720p)
+https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="",COSMO TV 2 (720p)
+http://91.126.141.201:1935/live/smil:cosmoHD.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",COSMO TV HD
+http://91.126.141.201:1935/live/cosmoHD/chunklist_w1473340396.m3u8
+
+#EXTINF:-1 group-title="",COSMO TV HD ESP
+http://91.126.141.201:1935/live/cosmoHD/chunklist_w1035779792.m3u8
+
+#EXTINF:-1 group-title="Kids",Disney Channel España
+http://5.255.90.184:2004/play/a006/index.m3u8
+
+#EXTINF:-1 group-title="News",Euronews en Español (720p)
+https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="",Extrema TV (720p)
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 group-title="",Family Movies (720p)
+https://rakuten-family-2-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="News",France 24 Español (576p)
+http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
+
+TINF:-1 group-title="",Imagen TV (XHCTTI-TDT)
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhctti-tdt.m3u8
+
+#EXTINF:-1 group-title="",LA MIA TV (720p)
+https://ss8.domint.net:3108/mia_str/lamiatv/chunklist_w2025663703.m3u8
+
+
+
+
+
 
 
 
