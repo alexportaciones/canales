@@ -30,9 +30,6 @@ http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w19153785
 #EXTINF:-1 group-title="MUSICA",U TV
 http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8
 
-#EXTINF:-1 group-title="NOTICIAS",UCSG ECUADOR
-http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
-
 #EXTINF:-1 group-title="NOTICIAS",TV Noticias 7.3
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0002&mode=12
 
@@ -41,9 +38,6 @@ http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="CULTURAL",Litus TV Santa Fe
 http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Bh8rmNJ.png" group-title="CULTURAL",Tierramia TV
-http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="MUSICA", COLOSAL TV COSTA RICA 
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
@@ -56,9 +50,6 @@ http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 
 #EXTINF:-1 group-title="CULTURAL",Entrepeneur
 https://a.jsrdn.com/broadcast/7582ed85f7/+0000/c.m3u8
-
-#EXTINF:-1 group-title="DEPORTES",ESPN
-http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDg6NTI6MDUgQU0maGFzaF92YWx1ZT02dkk5bitvVHJveEQ4eHFjNE5qYWdnPT0mdmFsaWRtaW51dGVzPTIw
 
 #EXTINF:-1 group-title="PELICULAS",GEN TV HD
 https://videohd.live:19360/8010/8010.m3u8?_=1
@@ -102,9 +93,6 @@ https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="PELICULAS",COSMO TV HD
 http://91.126.141.201:1935/live/cosmoHD/chunklist_w1473340396.m3u8
 
-#EXTINF:-1 group-title="INFANTIL",Disney Channel España
-http://5.255.90.184:2004/play/a006/index.m3u8
-
 #EXTINF:-1 group-title="NOTICIAS",Euronews en Español (720p)
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 
@@ -126,9 +114,6 @@ http://186.101.216.211:8000/play/a02y
 #EXTINF:-1 group-title="PELICULAS",LIM TV 
 https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8
 
-#EXTINF:-1 tvg-id="NoticiasCaracol.co" group-title="NOTICIAS",Noticias Caracol COLOMBIA(720p)
-https://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
-
 #EXTINF:-1 tvg-id="PH.do" group-title="PELICULAS",PH (720p)
 https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
 
@@ -147,8 +132,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f984c1dc
 #EXTINF:-1 tvg-id="ReadyTV.do" group-title="PELICULAS",Ready TV [Not 24/7]
 http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Spotlight.es" group-title="PELICULAS",Spotlight (720p)
-https://rakuten-spotlight-2-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Telenord12.do" tvg-name="Telenord 12" tvg-logo="https://i.imgur.com/iE1xhA5.png" group-title="PELICULAS",Telenord 12 (720p)
+http://newyorkstream.ddns.net:1935/telenord12/telenord12/playlist.m3u8
 
-
-
+#EXTINF:-1 tvg-id="Telenord8.do" tvg-name="Telenord 8" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://1.bp.blogspot.com/-H6WpFuwnBw8/Xb8tpN3x27I/AAAAAAAAowE/i8xCRlptBkEGIn9nxcfdajE2ieOQ07GGQCLcBGAsYHQ/s200/Telenord.jpg" group-title="",Telenord 8 (1080p)
+http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8
